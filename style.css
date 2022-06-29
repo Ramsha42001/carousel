@@ -1,0 +1,68 @@
+
+
+.container
+{
+  background-color:#701370;
+  height:26vw;
+  width: 52vw;
+}
+.button1
+{
+  position: absolute;
+  left: 16.5%;
+  top:47%;
+}
+
+
+.button2
+{
+  position: absolute;
+  right: 20%;
+  top:47%;
+}
+
+iframe
+{
+  margin-top: 30px;
+  background-color: #D495FF;
+  height:26vw;
+  width: 52vw;
+  border: 10px solid;
+  border-radius: 34.5px;
+  border-color: #D495FF;
+}
+
+.carousel-item
+{
+  top: 40%;
+  left:17.5%;
+}
+
+.carousel .carousel-indicators button {
+    width: 0.624vw;
+   height: 0.624vw;
+   border-radius: 100%;
+   margin: 0 2%;
+   left: auto;
+ }
+.carousel-control-prev
+{
+  height: 2.34vw;
+  width: 2.34vw;
+  border-radius:100%;
+  background-color: #fff;
+  color: #fff;
+  margin-left: 100px;
+  opacity: 2.0;
+}
+
+.carousel-control-next
+{
+  position: fixed;
+  height: 2.34vw;
+  width: 2.34vw;
+  border-radius:100%;
+  background-color: #fff;
+  opacity: 1.0;
+  margin-left: 20px;
+}
